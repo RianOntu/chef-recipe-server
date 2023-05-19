@@ -1,11 +1,12 @@
 [
     {
       "id": 1,
-      "chefName": "John Smith",
+      "chefImg":"https://i.ibb.co/S7TpSLq/sanjeev-kapoor.webp",
+      "chefName": "Sanjeev kapoor",
       "yearsOfExperience": 10,
       "numberOfRecipes": 3,
       "likes": 5000,
-      "chefBio": "John Smith is a seasoned chef with 10 years of experience. He has created 50 unique recipes that have gained popularity among food enthusiasts. With a passion for culinary arts, John continues to innovate and bring new flavors to the table.",
+      "chefBio": "Sanjeev kapoor is a seasoned chef with 10 years of experience. He has created 50 unique recipes that have gained popularity among food enthusiasts. With a passion for culinary arts, Sanjeev kapoor continues to innovate and bring new flavors to the table.",
        "recipeInfo":[
     {
         "firstRecipe":  {
@@ -68,6 +69,7 @@
     },
     {
       "id": 2,
+      "chefImg":"https://i.ibb.co/WWM9zj5/82b84a28-9065-4bed-be4c-7c8a95985e58.jpg",
       "chefName": "Emily Johnson",
       "yearsOfExperience": 8,
       "numberOfRecipes": 3,
@@ -128,6 +130,7 @@
     },
     {
       "id": 3,
+      "chefImg":"https://i.ibb.co/ZfDPZ2Y/saransh-goila.webp" ,
       "chefName": "Michael Davis",
       "yearsOfExperience": 15,
       "numberOfRecipes": 3,
@@ -186,6 +189,7 @@
     },
     {
       "id": 4,
+      "chefImg":"https://i.ibb.co/NTyKMD7/Mantra-3-700x728.jpg",
       "chefName": "Sophia Anderson",
       "yearsOfExperience": 5,
       "numberOfRecipes": 3,
@@ -238,6 +242,7 @@
     },
     {
       "id": 5,
+      "chefImg":"https://i.ibb.co/7jgsKj6/ajay-chopra-Indian-Food-Network.jpg",
       "chefName": "William Brown",
       "yearsOfExperience": 12,
       "numberOfRecipes": 3,
@@ -311,6 +316,7 @@
     },
     {
       "id": 6,
+      "chefImg":"https://i.ibb.co/2FrmCNZ/7rx2ywvg-72866acc40b18b1e58131fb8c7f919d088c79015.jpg",
       "chefName": "Olivia Taylor",
       "yearsOfExperience": 6,
       "numberOfRecipes": 3,
